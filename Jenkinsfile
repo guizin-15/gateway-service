@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        SERVICE = 'gateway-service'
+        SERVICE = 'gateway'
         NAME = "loquinze/${env.SERVICE}"
     }
     stages {
