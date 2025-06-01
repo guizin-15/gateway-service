@@ -1,7 +1,7 @@
-/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Humberto/plataforma/api/gateway-service/src/main/java/store/gateway/GatewayApplication.java
-/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Humberto/plataforma/api/gateway-service/src/main/java/store/gateway/GatewayResource.java
-/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Humberto/plataforma/api/gateway-service/src/main/java/store/gateway/security/AuthorizationFilter.java
-/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Humberto/plataforma/api/gateway-service/src/main/java/store/gateway/security/CorsFilter.java
-/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Humberto/plataforma/api/gateway-service/src/main/java/store/gateway/security/RouterValidator.java
-/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Humberto/plataforma/api/gateway-service/src/main/java/store/gateway/security/SolveOut.java
-/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Humberto/plataforma/api/gateway-service/src/main/java/store/gateway/security/TokenOut.java
+/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Microservicos/Humberto/plataforma/api/gateway-service/src/main/java/store/gateway/GatewayApplication.java
+/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Microservicos/Humberto/plataforma/api/gateway-service/src/main/java/store/gateway/GatewayResource.java
+/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Microservicos/Humberto/plataforma/api/gateway-service/src/main/java/store/gateway/security/AuthorizationFilter.java
+/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Microservicos/Humberto/plataforma/api/gateway-service/src/main/java/store/gateway/security/CorsFilter.java
+/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Microservicos/Humberto/plataforma/api/gateway-service/src/main/java/store/gateway/security/RouterValidator.java
+/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Microservicos/Humberto/plataforma/api/gateway-service/src/main/java/store/gateway/security/SolveOut.java
+/Users/luigiquinze/Documents/Insper/Insper Quinto Semestre/Microservicos/Humberto/plataforma/api/gateway-service/src/main/java/store/gateway/security/TokenOut.java
